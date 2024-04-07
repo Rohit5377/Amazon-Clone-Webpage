@@ -6,11 +6,11 @@ Responsive design, ensuring compatibility with various screen sizes and devices.
 Similar layout and styling to the original Amazon webpage, including navigation bar, product listings, and footer.<br>
 Placeholder product images and descriptions for demonstration purposes.<br>
 
+**Demo**<br>
+Experience the live demo here :- https://rohit5377.github.io/Amazon-Clone-Webpage/
+
 **Contributing**<br>
 Contributions are welcome! Feel free to open an issue or submit a pull request with any improvements or bug fixes.
 
 **Credits**<br>
 This project was created by Rohit Kumar.
-
-**To See Website**<br>
-click on :- https://rohit5377.github.io/Amazon-Clone-Webpage/
