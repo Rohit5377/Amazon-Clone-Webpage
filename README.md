@@ -2,7 +2,6 @@
 This project is a replica of the Amazon webpage created using HTML and CSS.<br> It aims to mimic the layout and design of the Amazon website, providing users with a familiar browsing experience.
 
 **Features**<br>
-Responsive design, ensuring compatibility with various screen sizes and devices.<br>
 Similar layout and styling to the original Amazon webpage, including navigation bar, product listings, and footer.<br>
 Placeholder product images and descriptions for demonstration purposes.<br>
 
